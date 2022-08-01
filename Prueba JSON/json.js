@@ -1,0 +1,1 @@
+var JSONObj = { "nombrelibro":"El hacedor", "precio":500 };
